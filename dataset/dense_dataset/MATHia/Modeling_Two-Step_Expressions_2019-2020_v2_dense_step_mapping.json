@@ -1,0 +1,10 @@
+{
+  "Expression-Dep": 0,
+  "Expression-Indep": 1,
+  "Q1-Dep": 2,
+  "Q1-Indep": 3,
+  "Q2-Dep": 4,
+  "Q2-Indep": 5,
+  "Unit-Dep": 6,
+  "Unit-Indep": 7
+}
